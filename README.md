@@ -8,5 +8,8 @@ Maven and JRE must be installed.
 # Building #
 
 ```mvn clean install```
+![Build success](https://github.com/vijay26051991/SimpleTextSearch/blob/master/SimpleSearch/Build.PNG)
 
 # Execution #
+
+![Execution](https://github.com/vijay26051991/SimpleTextSearch/blob/master/SimpleSearch/Execution.PNG)
